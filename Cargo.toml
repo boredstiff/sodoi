@@ -1,0 +1,11 @@
+[package]
+name = "sodoi"
+version = "0.1.0"
+authors = ["x <xxb@xx.com>"]
+edition = "2018"
+
+[dependencies]
+vst2 = "0.0.1"
+
+[lib]
+crate-type = ["dylib"]
